@@ -26,10 +26,10 @@ const ProjectCardData = [
     },
     {
         imgsrc: pro3,
-        title: "MERN Stack Ecommerce App",
-        text: "A Type of Ecommerce Application made in react as Frontend and Express,MongoDb as backend also includes Payment Gatway,Authentication Systems",
-        view: "https://sleepy-teal-cape.cyclic.app/",
-        source: "www.github.com/shan-creator"
+        title: "NextJS Prompt Application",
+        text: "A Type of NextJs Crud App to make Social Prompts With Varied Functionality",
+        view: "promptopia.vercel.app/",
+        source: "https://github.com/shan0720-creator/Promptopia"
         
          
                 
